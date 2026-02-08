@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://jaytee-ai-stuff.github.io/deakin-test-logos/logos/",
+  "baseUrl": "https://client-files.github.io/deakin-test-logos/logos/",
   "variants": [
     { "key": "B-DU-DoL-D", "label": "DoL-D", "file": "B-DU-DoL-D_Logo-Stacked-Keyline.svg" },
     { "key": "DU-3DGL", "label": "3D Geospatial Lab", "file": "DU-3DGL_Logo-Stacked-Keyline.svg" },
