@@ -1,6 +1,6 @@
 {
   "userPresets": {
-    "eb58892da973a4152b59c378eef256405b711f0672161f85ee386c7582567ee0": {"defaultVariant": "DU-AAII", "roundel": true, "reverse": false, "width": 500, "hidePlacement": false, "autoReplace": true},
+    "eb58892da973a4152b59c378eef256405b711f0672161f85ee386c7582567ee0": {"defaultVariant": "DU-A-WE", "roundel": true, "reverse": false, "width": 500, "hidePlacement": false, "autoReplace": true},
     "def456masked": {"defaultVariant": "DU-GENERIC", "roundel": false, "reverse": false, "width": 1000, "hidePlacement": true, "autoReplace": true},
     "ghi789masked": {"defaultVariant": "DU-ASP-H", "roundel": true, "reverse": true, "width": 750, "hidePlacement": false, "autoReplace": false}
   }
